@@ -77,7 +77,6 @@ namespace MVPCommander
             {
                 ShowException(ex);
             }
-            Console.ReadLine();
         }
 
         private static void ShowException(Exception ex)
